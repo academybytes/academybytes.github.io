@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-## AcademyBytes
+## T. Nichole Williams
 #### Professional Summary
 
 
