@@ -21,19 +21,19 @@ June, 2009 Bachelors of Arts
 Technical Evangelist | July 2018 - Present
 
 
-[Linux Academy][la-main]
+[Linux Academy][la-main] | Keller, Texas 76244
 Course Author / Training Architect | January 2017 - July 2018
 
 Responsible for developing e-learning course content including: instructional videos, quizzes, study guides, and supplemental study materials. Development and code of labs for OpenStack, OpenShift, and Docker environments using Bash and Ansible. Assisting students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
 
 Published courses:
 
-[DEPRECATED - OpenStack Magnum Containers][magnum] | January, 2017
-[OpenStack Essentials][osessentials] | February, 2017
-[Linux Academy Red Hat Certified Engineer in Red Hat OpenStack (ex310) prep course][ex310] | May, 2017
-[Linux Academy Certificate of Specialty in Platform-as-a-Service (ex280) prep course][ex280] | November, 2017
-[CoreOS Essentials][coreos] | April, 2018
-[Docker Quest - SpaceBones 2 - The Quest for More Yummies][docker] | July,
+- [DEPRECATED - OpenStack Magnum Containers][magnum] | January, 2017
+- [OpenStack Essentials][osessentials] | February, 2017
+- [Linux Academy Red Hat Certified Engineer in Red Hat OpenStack (ex310) prep course][ex310] | May, 2017
+- [Linux Academy Certificate of Specialty in Platform-as-a-Service (ex280) prep course][ex280] | November, 2017
+- [CoreOS Essentials][coreos] | April, 2018
+- [Docker Quest - SpaceBones 2 - The Quest for More Yummies][docker] | July,
 2018
 
 [Rackspace, Inc][rax] | San Antonio, Texas 78217
@@ -85,6 +85,7 @@ TBA
 [osessentials]: https://linuxacademy.com/openstack/training/course/name/openstack-essentials
 [ex310]: https://linuxacademy.com/openstack/training/course/name/rhel-rhce-openstack
 [ex280]: https://linuxacademy.com/linux/training/course/name/linux-academy-redhat-certificate-of-expertise-in-platform-as-a-service-exam-ex280-prep-course
+[coreos]: https://linuxacademy.com/linux/training/course/name/coreos-essentials
 [magnum]: https://linuxacademy.com/openstack/training/course/name/openstack-magnum-containers
-
+[docker]: #
 [OpenStack Community profile](https://www.openstack.org/community/members/profile/59069/treva-williams)
