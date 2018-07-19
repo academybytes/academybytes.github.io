@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Find me
+title: Conferences -&- Events
 permalink: /findme/
 ---
 

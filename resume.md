@@ -67,6 +67,7 @@ TBA
 - OpenStack Magnum
 - OpenStack PackStack
 - Kata Containers (pending review)
+- OpenStack Track Chair - Berlin 2018
 
 ### Organizations
 
