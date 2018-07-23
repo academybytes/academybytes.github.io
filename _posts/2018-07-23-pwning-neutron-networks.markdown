@@ -26,7 +26,7 @@ NUC][nuc] with a [500GB Samsung SSD][ssd] & [16GBx2 RAM][ram]. My network name i
 So, because I'm using [PackStack][packstack] as my deployment tool, I will
 need to adjust Neutron settings in `answers.txt` with the following settings:
 
-````
+```
 CONFIG_NEUTRON_ML2_TYPE_DRIVERS=vxlan,flat
 CONFIG_NEUTRON_OVS_BRIDGE_MAPPINGS=extnet:br-ex
 CONFIG_NEUTRON_OVS_BRIDGE_IFACES=br-ex:eno1
