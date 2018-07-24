@@ -84,10 +84,12 @@ Alright, moment of truth. Let's try to login to `myserver`.
 # ssh cirros@192.168.1.10
 $ hostname
 myserver
-$ 
+$ exit
+Connection to 192.168.1.10 closed.
 ```
 
-SUCCESS!
+SUCCESS! So after an embarrassingly long time spent troubleshooting, testing,
+& re-OS-ing I've finally solved the problem of simple Provider networks.
 
 [packstack]: https://www.rdoproject.org/install/packstack/
 [rdoblog]: https://www.rdoproject.org/networking/neutron-with-existing-external-network/
