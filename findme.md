@@ -33,10 +33,20 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 
 ### Recordings
 
-- TBA
-- TBA
-- TBA
+- [What's the best certification for beginners to find a job?][laquestions]
+- [PackStack, Containerization, & Contributing to OpenStack][ptgvid1] - OpenStack
+  PTG Denver, September 2017
+- [Let's Talk Containers - Kubernetes, OpenStack, Kata Containers][lasyc]
+- [Linux Academy Livestream - Docker & Google content][lalivestream]
+- Coming Soon: [OpenShift Commons Briefing - OpenShift on PackStack][ocb]
 
+
+
+[ptgvid1]: https://www.youtube.com/watch?v=UnOnDWsU4RI&t=5s
+[laquestions]: https://www.youtube.com/watch?v=8XYCfTo_ZsY
+[lasyc]: https://www.youtube.com/watch?v=2Cn2zO_Vdws&t=1s
+[ocb]: #
+[lalivestream]: https://www.youtube.com/watch?v=F0f9WmxdSts
 [22041]: https://www.openstack.org/summit/berlin-2018/vote-for-speakers#/22041
 [22003]: https://www.openstack.org/summit/berlin-2018/vote-for-speakers#/22003
 [berlin]: https://www.openstack.org/summit/berlin-2018/
