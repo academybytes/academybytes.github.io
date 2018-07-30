@@ -26,12 +26,19 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 
 ### Recordings
 
-- [What's the best certification for beginners to find a job?][laquestions]
+- [What's the best certification for beginners to find a job?][laquestions] -
+  #AskLinuxAcademy
 - [PackStack, Containerization, & Contributing to OpenStack][ptgvid1] - OpenStack
   PTG Denver, September 2017
-- [Let's Talk Containers - Kubernetes, OpenStack, Kata Containers][lasyc]
+- [Let's Talk Containers - Kubernetes, OpenStack, Kata Containers][lasyc] -
+  SYC
+- [Linux Academy Livestream - Happy 8th Birthday OpenStack!][os8th]
 - [Linux Academy Livestream - Docker & Google content][lalivestream]
 - Coming Soon: [OpenShift Commons Briefing - OpenShift on PackStack][ocb]
+
+### Podcasts
+
+- [You, Yes, YOU Can Give a Conference Talk][woocast] - [Women of OpenStack][woo] Podcast
 
 ### Meetups
 
@@ -43,6 +50,7 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 [ptgvid1]: https://www.youtube.com/watch?v=UnOnDWsU4RI&t=5s
 [laquestions]: https://www.youtube.com/watch?v=8XYCfTo_ZsY
 [lasyc]: https://www.youtube.com/watch?v=2Cn2zO_Vdws&t=1s
+[os8th]: https://www.youtube.com/watch?v=uUbJju7BvEQ
 [ossna]: https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/
 [ocb]: #
 [lalivestream]: https://www.youtube.com/watch?v=F0f9WmxdSts
@@ -50,3 +58,5 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 [22003]: https://www.openstack.org/summit/berlin-2018/vote-for-speakers#/22003
 [berlin]: https://www.openstack.org/summit/berlin-2018/
 [ptg]: https://www.openstack.org/ptg/
+[woo]: https://wiki.openstack.org/wiki/Women_of_OpenStack
+[woocast]: http://3e0938c72320c1e97db5-a29d7d5063cc8716c60b936b269f2da7.r31.cf1.rackcdn.com/woo%20cfp%20talk.mp3
