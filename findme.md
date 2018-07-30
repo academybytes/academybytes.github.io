@@ -24,7 +24,7 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
   2018
 - [OpenStack Summit Berlin, Germany][berlin] - November 13-15th, 2018
 
-### Recordings
+### Videos
 
 - [What's the best certification for beginners to find a job?][laquestions] -
   #AskLinuxAcademy
@@ -39,7 +39,7 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 ### Podcasts
 
 - [You, Yes, YOU Can Give a Conference Talk][woocast] - [Women of OpenStack][woo] Podcast
-
+- Coming Soon: [Commandline Heros @ Red Hat Summit 2018][clh]
 ### Meetups
 
 - TBA
@@ -60,3 +60,4 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 [ptg]: https://www.openstack.org/ptg/
 [woo]: https://wiki.openstack.org/wiki/Women_of_OpenStack
 [woocast]: http://3e0938c72320c1e97db5-a29d7d5063cc8716c60b936b269f2da7.r31.cf1.rackcdn.com/woo%20cfp%20talk.mp3
+[clh]: #
