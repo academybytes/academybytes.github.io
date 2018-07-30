@@ -19,7 +19,7 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 
 ### Conferences
 
-- [Open Source Summit North America - Vancouver, ON, CA][ossna] August 28th-31st, 2018
+- [Open Source Summit North America - Vancouver, BC, CA][ossna] August 28th-31st, 2018
 - [OpenStack Project Teams Gathering - Denver, CO][ptg] - September 10-14th,
   2018
 - [OpenStack Summit Berlin, Germany][berlin] - November 13-15th, 2018
