@@ -9,7 +9,7 @@ permalink: /findme/
 As a technical ~~evalangist~~ evangelist I get to travel a lot to various
 conferences centered around Open Source projects. Below is a list of projected
 conferences I will be attending in 2018, accompanied by my trusty therapy dog
-(in training), Sir Hairold B. Goggington III. If you see us, come say hi!
+(in training), [Sir Hairold B. Goggington III][goggy]. If you see us, come say hi!
 
 ### Vote for Trilliams!! OpenStack Summit Berlin 2018
 
@@ -24,12 +24,6 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
   2018
 - [OpenStack Summit Berlin, Germany][berlin] - November 13-15th, 2018
 
-### Meetups
-
-- TBA
-- TBA
-- TBA
-
 ### Recordings
 
 - [What's the best certification for beginners to find a job?][laquestions]
@@ -39,7 +33,13 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 - [Linux Academy Livestream - Docker & Google content][lalivestream]
 - Coming Soon: [OpenShift Commons Briefing - OpenShift on PackStack][ocb]
 
+### Meetups
 
+- TBA
+- TBA
+- TBA
+
+[goggy]: https://instagram.com/goggy3stax/
 [ptgvid1]: https://www.youtube.com/watch?v=UnOnDWsU4RI&t=5s
 [laquestions]: https://www.youtube.com/watch?v=8XYCfTo_ZsY
 [lasyc]: https://www.youtube.com/watch?v=2Cn2zO_Vdws&t=1s
