@@ -73,13 +73,14 @@ TBA
 
 - OpenShift Commons - May 2017 - Present
 - OpenStack Foundation - April 2016 - Present
+- [Women of OpenStack][woo] - January 2016 - Present
 
 ### Availability
 
 - Available for relocation and travel
 - References upon request
 
-
+[woo]: https://wiki.openstack.org/wiki/Women_of_OpenStack
 [la-main]: https://linuxacademy.com
 [rax]: https://rackspace.com
 [volt]: #

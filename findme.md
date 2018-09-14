@@ -20,9 +20,7 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 ### Conferences
 
 - [Open Source Summit North America - Vancouver, BC, CA][ossna] August 28th-31st, 2018
-- [OpenStack Project Teams Gathering - Denver, CO][ptg] - September 10-14th,
-  2018
-- [OpenStack Summit Berlin, Germany][berlin] - November 13-15th, 2018
+- [OpenStack Summit - Berlin, Germany][berlin] - November 13-15th, 2018
 
 ### Videos
 
@@ -34,12 +32,14 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
   SYC
 - [Linux Academy Livestream - Happy 8th Birthday OpenStack!][os8th]
 - [Linux Academy Livestream - Docker & Google content][lalivestream]
-- Coming Soon: [OpenShift Commons Briefing - OpenShift on PackStack][ocb]
+- **Coming Soon**: [OpenShift Commons Briefing - OpenShift on PackStack][ocb]
 
 ### Podcasts
 
 - [You, Yes, YOU Can Give a Conference Talk][woocast] - [Women of OpenStack][woo] Podcast
-- Coming Soon: [Commandline Heros @ Red Hat Summit 2018][clh]
+- **Coming Soon**: [Commandline Heros @ Red Hat Summit 2018][clh]
+
+
 ### Meetups
 
 - TBA
