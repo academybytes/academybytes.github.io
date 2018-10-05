@@ -2,12 +2,12 @@
 layout: post
 title:  "Pwning Neutron Networks"
 date:   2018-07-23 12:55:50 -0600
-categories: jekyll update openstack rhca packstack rdo neutron
+categories: openstack packstack
 ---
 
 Those who know me, know that I am 100% an OpenStack Fangirl & will never stop
 loving the project, but, like a lot of people in the community -- I have a
-love/hate relationship with [Neutron][neutron] that can sometimes be heavy on
+love/hate relationship with Neutron that can sometimes be heavy on
 the hate. It's an awesome project created & maintained by some of the most brilliant people I've ever had the pleasure of speaking with but OMG Y ARE U SO DIFFICULT.
 
 **ahem**
