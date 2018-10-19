@@ -19,9 +19,9 @@ permalink: /resume/
 
 ### Professional Experience
 
-[Linux Academy][la-main] | Keller, Texas | July 2018 - Present
-#### Technical Evangelist 
+#### [Linux Academy][la-main] | Keller, Texas | July 2018 - Present
 
+##### Technical Evangelist 
 - Attend and participate in meetups, conferences, and other speaking engagements
 - Develop e-learning content including: 
 	- Instructional videos
@@ -31,11 +31,16 @@ permalink: /resume/
 - Develop and code of labs for OpenStack & OpenShift environments using Bash and Ansible. 
 - Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
 
-#### Published Courses
+##### Published Courses
 - [OpenShift on OpenStack][ooo123] November, 2018
 
-[Linux Academy][la-main] | Keller, Texas | January 2017 - July 2018
-#### Course Author / Training Architect
+##### Presentations & Videos
+
+- (Hands-on Workshop) [It’s a PaaS - OpenShift vs. Kubernetes on OpenStack][issapass] - OpenStack Summit Berlin 2018
+- (Lightning Talk) [Stacks on Stacks on Stacks - OpenShift, OpenStack, & Why They’re Best Friends][staxonstax] - OpenStack Summit Berlin 2018
+
+#### [Linux Academy][la-main] | Keller, Texas | January 2017 - July 2018
+##### Course Author / Training Architect
 - Develop e-learning content including: 
 	- Instructional videos
 	- Quizzes
@@ -44,8 +49,7 @@ permalink: /resume/
 - Develop and code of labs for OpenStack, OpenShift, and Docker environments using Bash and Ansible. 
 - Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
 
-#### Published courses:
-
+##### Published courses:
 - [Docker Quest - SpaceBones 2 - The Quest for More Yummies][docker] July, 2018
 - [CoreOS Essentials][coreos] - April, 2018
 - [Linux Academy Certificate of Specialty in Platform-as-a-Service (ex280) prep course][ex280] - November, 2017
@@ -53,16 +57,16 @@ permalink: /resume/
 - [OpenStack Essentials][osessentials] - February, 2017
 - [OpenStack Magnum Containers][magnum] - January, 2017
 
-[Rackspace, Inc][rax] | San Antonio, Texas | December 2013 - November 2016
+#### [Rackspace, Inc][rax] - San Antonio, Texas - December 2013 - November 2016
 
-#### Cloud Virtualization Administrator
+##### Cloud Virtualization Administrator
 
 - Monitor and troubleshooting multi-tenant virtualized environments across several datacenter regions, using Openstack software, Xenserver and Xapi drivers. 
 - Assist customers with OS-level troubleshooting and configuration of both Windows and Linux environments.
 
-[Rackspace, Inc][rax] - San Antonio, Texas | November 2011 - December 2013
+#### [Rackspace, Inc][rax] - San Antonio, Texas - November 2011 - December 2013
 
-#### Customer Support Technician
+##### Customer Support Technician
 
 - Manage, troubleshoot and configure shared Microsoft Hosted Exchange 2003, 2008 R2, and 2010 environment
 - Assist customers of varying technical skill with configuration on desktops and mobile devices. 
@@ -70,34 +74,28 @@ permalink: /resume/
 - Troubleshoot Blackberry Enterprise Server configurations.
 
 
-[Volt, Inc][volt] - San Antonio, Texas |  March 2011 - November 2011
+#### [Volt, Inc][volt] - San Antonio, Texas -  March 2011 - November 2011
 
-#### Technical Support Representative
+##### Technical Support Representative
 
 - Assist customers of varying technical skill levels with troubleshooting and repairing home internet, VOIP phone and entertainment systems
 - Management of a small team
 
 ### Education
 
-University of the Incarnate Word | June, 2009 | Bachelors of Arts
-
-### Presentations & Videos
-
-- (Hands-on Workshop) [It’s a PaaS - OpenShift vs. Kubernetes on OpenStack][issapass] - OpenStack Summit Berlin 2018
-- (Lightning Talk) [Stacks on Stacks on Stacks - OpenShift, OpenStack, & Why They’re Best Friends][staxonstax] - OpenStack Summit Berlin 2018
-
+University of the Incarnate Word - June, 2009 - Bachelors of Arts
 
 ### Open Source & Community Projects
 
-- Contributor | [OpenStack Magnum][magnum2] | Update code to function with Glance v2.0 API
-- Contributor | OpenStack PackStack | Add dashboard integration for Magnum, Trove, Sahara, & Heat
-- Documentation | Kata Containers | Reformat documentation
-- Creator | [Pink Penguins][pinkpengs] | Group for underrepresented groups in technical fields
-- OpenStack Track Chair | OpenStack Summit Berlin 2018 | Aid in selection & organization of speakers for the Container Infrastructure track
+- Contributor -- [OpenStack Magnum][magnum2] -- Update code to function with Glance v2.0 API
+- Contributor -- OpenStack PackStack -- Add dashboard integration for Magnum, Trove, Sahara, & Heat
+- Documentation -- Kata Containers -- Reformat documentation
+- Creator -- [Pink Penguins][pinkpengs] -- Group for underrepresented groups in technical fields
+- OpenStack Track Chair -- OpenStack Summit Berlin 2018 -- Aid in selection & organization of speakers for the Container Infrastructure track
 
 ### Organizations
 
-- [OpenShift Commons][commons] | May 2017 - Present
+- [OpenShift Commons][commons] - May 2017 - Present
 - [OpenStack Foundation][profile] - April 2016 - Present
 	- Active Technical Contributor
 	- Active User Contributor
