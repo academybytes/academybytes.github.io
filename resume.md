@@ -4,27 +4,48 @@ title: Resume
 permalink: /resume/
 ---
 
-## T. Nichole Williams
+## T. Nichole Williams	
+[Contact Form(coming soon)][contact]	| (214)519-9156	| [/in/trilliams][linkedin]
 
-### Education
+### Certifications & Skills
 
-University of the Incarnate Word
-June, 2009 Bachelors of Arts
+- Red Hat Certified Systems Administrator
+- Red Hat Certified Systems Administrator in Red Hat OpenStack
+- Bash, core Java
+- Systems administration
+- Instructional design
+- Lab environment design
 
-### Experience
 
-[Linux Academy][la-main] - Keller, Texas 76244
-Technical Evangelist - July 2018 - Present
+### Professional Experience
 
+[Linux Academy][la-main] | Keller, Texas | July 2018 - Present
+#### Technical Evangelist 
 
-[Linux Academy][la-main] - Keller, Texas 76244
-Course Author / Training Architect - January 2017 - July 2018
+- Attend and participate in meetups, conferences, and other speaking engagements
+- Develop e-learning content including: 
+	- Instructional videos
+	- Quizzes
+	- Study guides
+	- Supplemental study materials
+- Develop and code of labs for OpenStack & OpenShift environments using Bash and Ansible. 
+- Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
 
-Responsible for developing e-learning course content including: instructional videos, quizzes, study guides, and supplemental study materials. Development and code of labs for OpenStack, OpenShift, and Docker environments using Bash and Ansible. Assisting students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
+#### Published Courses
+- [OpenShift on OpenStack][ooo123] November, 2018
+
+[Linux Academy][la-main] | Keller, Texas | January 2017 - July 2018
+#### Course Author / Training Architect
+- Develop e-learning content including: 
+	- Instructional videos
+	- Quizzes
+	- Study guides
+	- Supplemental study materials
+- Develop and code of labs for OpenStack, OpenShift, and Docker environments using Bash and Ansible. 
+- Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
 
 #### Published courses:
 
-- [OpenShift on OpenStack][ooo123] November, 2018
 - [Docker Quest - SpaceBones 2 - The Quest for More Yummies][docker] July, 2018
 - [CoreOS Essentials][coreos] - April, 2018
 - [Linux Academy Certificate of Specialty in Platform-as-a-Service (ex280) prep course][ex280] - November, 2017
@@ -32,32 +53,33 @@ Responsible for developing e-learning course content including: instructional vi
 - [OpenStack Essentials][osessentials] - February, 2017
 - [DEPRECATED - OpenStack Magnum Containers][magnum] - January, 2017
 
-[Rackspace, Inc][rax] - San Antonio, Texas 78217
-Cloud Virtualization Administrator - December 2013 - November 2016
+[Rackspace, Inc][rax] | San Antonio, Texas | December 2013 - November 2016
 
-Responsible for monitoring and troubleshooting multi-tenant virtualized environments across several datacenter regions, using Openstack software, Xenserver and Xapi drivers. Responsible for assisting customers with OS-level troubleshooting and configuration of both Windows and Linux environments.
+#### Cloud Virtualization Administrator
 
-[Rackspace, Inc][rax] - San Antonio, Texas 78217
-Customer Support Technician - November 2011 - December 2013
+- Monitor and troubleshooting multi-tenant virtualized environments across several datacenter regions, using Openstack software, Xenserver and Xapi drivers. 
+- Assist customers with OS-level troubleshooting and configuration of both Windows and Linux environments.
 
-Manage, troubleshoot and configure shared Microsoft Hosted Exchange 2003, 2008 R2, and 2010 environment while assisting customers of varying technical skill with configuration on desktops and mobile devices. Manage and troubleshoot Linux-based Rackspace Email and assist customers with local configuration. Troubleshoot Blackberry Enterprise Server.
+[Rackspace, Inc][rax] - San Antonio, Texas | November 2011 - December 2013
+
+#### Customer Support Technician
+
+- Manage, troubleshoot and configure shared Microsoft Hosted Exchange 2003, 2008 R2, and 2010 environment
+- Assist customers of varying technical skill with configuration on desktops and mobile devices. 
+- Manage and troubleshoot Linux-based Rackspace Email and assist customers with local configuration. 
+- Troubleshoot Blackberry Enterprise Server configurations.
 
 
-[Volt, Inc][volt] - San Antonio, Texas 78247
-Technical Support Representative - March 2011 - November 2011
+[Volt, Inc][volt] - San Antonio, Texas |  March 2011 - November 2011
 
-Assisted customers of varying technical skill levels with troubleshooting and repairing
-home internet, VOIP phone and entertainment systems, along with co-team management.
+#### Technical Support Representative
 
-### Certifications & Skills
+- Assist customers of varying technical skill levels with troubleshooting and repairing home internet, VOIP phone and entertainment systems
+- Management of a small team
 
-- Red Hat Certified Systems Administrator
-- Red Hat Certified Systems Administrator in Red Hat OpenStack
-- bash
-- core java
-- systems administration
-- instructional design
-- lab environment design
+### Education
+
+University of the Incarnate Word | June, 2009 | Bachelors of Arts
 
 ### Presentations & Videos
 
@@ -65,16 +87,17 @@ home internet, VOIP phone and entertainment systems, along with co-team manageme
 - (Lightning Talk) [Stacks on Stacks on Stacks - OpenShift, OpenStack, & Why They’re Best Friends][staxonstax] - OpenStack Summit Berlin 2018
 
 
-### Open Source Contributions
+### Open Source & Community Projects
 
-- OpenStack Magnum
-- OpenStack PackStack
-- Kata Containers (pending review)
+- Contributor | [OpenStack Magnum][magnum] | Update code to function with Glance v2.0 API
+- Contributor | OpenStack PackStack | Add dashboard integration for Magnum, Trove, Sahara, & Heat
+- Documentation | Kata Containers | Reformat documentation
+- Creator | [Pink Penguins][pinkpengs] | Group for underrepresented groups in technical fields
 - OpenStack Track Chair - Berlin 2018
 
 ### Organizations
 
-- OpenShift Commons - May 2017 - Present
+- [OpenShift Commons][commons] | May 2017 - Present
 - [OpenStack Foundation][profile] - April 2016 - Present
 	- Active Technical Contributor
 	- Active User Contributor
@@ -89,6 +112,7 @@ home internet, VOIP phone and entertainment systems, along with co-team manageme
 [la-main]: https://linuxacademy.com
 [rax]: https://rackspace.com
 [volt]: #
+[linkedin]: https://www.linkedin.com/in/trilliams/
 [osessentials]: https://linuxacademy.com/openstack/training/course/name/openstack-essentials
 [ex310]: https://linuxacademy.com/openstack/training/course/name/rhel-rhce-openstack
 [ex280]: https://linuxacademy.com/linux/training/course/name/linux-academy-redhat-certificate-of-expertise-in-platform-as-a-service-exam-ex280-prep-course
@@ -99,3 +123,8 @@ home internet, VOIP phone and entertainment systems, along with co-team manageme
 [issapass]: https://www.openstack.org/summit/berlin-2018/summit-schedule/events/22003/its-a-paas-openshift-vs-kubernetes-on-openstack
 [staxonstax]: https://www.openstack.org/summit/berlin-2018/summit-schedule/events/22041/stacks-on-stacks-on-stacks-openstack-openshift-and-why-theyre-best-friends
 [profile]: https://www.openstack.org/community/members/profile/59069/treva-williams
+[pinkpengs]: https://pinkpenguins.io
+[magnum]: https://review.openstack.org/445584
+[stackalytics]: http://stackalytics.com/?user_id=trilliams&release=all
+[commons]: https://commons.openshift.org
+[contact]: #
