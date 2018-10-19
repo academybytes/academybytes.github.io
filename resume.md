@@ -51,7 +51,7 @@ permalink: /resume/
 - [Linux Academy Certificate of Specialty in Platform-as-a-Service (ex280) prep course][ex280] - November, 2017
 - [Linux Academy Red Hat Certified Engineer in Red Hat OpenStack (ex310) prep course][ex310] - May, 2017
 - [OpenStack Essentials][osessentials] - February, 2017
-- [DEPRECATED - OpenStack Magnum Containers][magnum] - January, 2017
+- [OpenStack Magnum Containers][magnum] - January, 2017
 
 [Rackspace, Inc][rax] | San Antonio, Texas | December 2013 - November 2016
 
@@ -89,11 +89,11 @@ University of the Incarnate Word | June, 2009 | Bachelors of Arts
 
 ### Open Source & Community Projects
 
-- Contributor | [OpenStack Magnum][magnum] | Update code to function with Glance v2.0 API
+- Contributor | [OpenStack Magnum][magnum2] | Update code to function with Glance v2.0 API
 - Contributor | OpenStack PackStack | Add dashboard integration for Magnum, Trove, Sahara, & Heat
 - Documentation | Kata Containers | Reformat documentation
 - Creator | [Pink Penguins][pinkpengs] | Group for underrepresented groups in technical fields
-- OpenStack Track Chair - Berlin 2018
+- OpenStack Track Chair | OpenStack Summit Berlin 2018 | Aid in selection & organization of speakers for the Container Infrastructure track
 
 ### Organizations
 
@@ -124,7 +124,7 @@ University of the Incarnate Word | June, 2009 | Bachelors of Arts
 [staxonstax]: https://www.openstack.org/summit/berlin-2018/summit-schedule/events/22041/stacks-on-stacks-on-stacks-openstack-openshift-and-why-theyre-best-friends
 [profile]: https://www.openstack.org/community/members/profile/59069/treva-williams
 [pinkpengs]: https://pinkpenguins.io
-[magnum]: https://review.openstack.org/445584
+[magnum2]: https://review.openstack.org/445584
 [stackalytics]: http://stackalytics.com/?user_id=trilliams&release=all
 [commons]: https://commons.openshift.org
 [contact]: #
