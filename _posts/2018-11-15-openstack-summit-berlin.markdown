@@ -25,6 +25,8 @@ uploaded with more details on the demo environment, & how it can be replicated
 to create your own OpenShift-on-OpenStack playground.
 
 [demo]: https://youtu.be/Hshndx23oEc
+[ptg]: https://www.openstack.org/ptg/
+[summit]: https://www.openstack.org/summit/berlin-2018/
 [ktenzer]: https://keithtenzer.com
 [ooo123]: https://linuxacademy.com/openstack/training/course/name/open-shift-on-open-stack
 [vvan]: #
