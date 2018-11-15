@@ -21,6 +21,8 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 
 - [Open Source Summit North America - Vancouver, BC, CA][ossna] August 28th-31st, 2018
 - [OpenStack Summit - Berlin, Germany][berlin] - November 13-15th, 2018
+- [OpenShift Commons Gathering - Seattle, WA][ocg18] - December 10th, 2018
+- [KubeCon North America - Seattle, WA][kube18] - December 10-13th, 2018
 
 ### Videos
 
@@ -32,7 +34,8 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
   SYC
 - [Linux Academy Livestream - Happy 8th Birthday OpenStack!][os8th]
 - [Linux Academy Livestream - Docker & Google content][lalivestream]
-- **Coming Soon**: [OpenShift Commons Briefing - OpenShift on PackStack][ocb]
+- [Demo - Installing OpenShift v3.9 on OpenStack PackStack][osdemo] -
+  OpenStack Summit Berlin
 
 ### Podcasts
 
@@ -40,12 +43,9 @@ conferences I will be attending in 2018, accompanied by my trusty therapy dog
 - **Coming Soon**: [Commandline Heros @ Red Hat Summit 2018][clh]
 
 
-### Meetups
-
-- TBA
-- TBA
-- TBA
-
+[kube18]: https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/
+[ocg18]: https://commons.openshift.org/gatherings/Seattle_2018.html
+[osdemo]: https://youtu.be/Hshndx23oEc
 [goggy]: https://instagram.com/goggy3stax/
 [ptgvid1]: https://www.youtube.com/watch?v=UnOnDWsU4RI&t=5s
 [laquestions]: https://www.youtube.com/watch?v=8XYCfTo_ZsY
