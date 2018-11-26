@@ -8,7 +8,7 @@ categories: linuxacademy
 
 For those who caught the **OpenShift on OpenStack** bug at [OpenStack Summit Berlin][summit] & want to know more, check out my latest Linux Academy course - aptly named [OpenShift on OpenStack][ooo123]! 
 
-![graphic](images/Openshift-on-OpenStack-1920x1080.png)
+![graphic](https://github.com/academybytes/academybytes.github.io/blob/master/_posts/images/Openshift-on-OpenStack-1920x1080.png?raw=true)
 
 You'll get a full walkthrough on how to quickly deploy your own OpenStack Queens cloud using **OpenStack PackStack**, then launch an OpenShift cluster with Keystone, Cinder, & Neutron integrations using [Keith Tenzer's][ktenzer] OpenShift-on-OpenStack123 playbooks. Once your OoO123 cluster is running, we'll practice OpenShift migrations, disaster recovery, & more. 
 
