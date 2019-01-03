@@ -118,7 +118,7 @@ University of the Incarnate Word - June, 2009 - Bachelors of Arts
 [coreos]: https://linuxacademy.com/linux/training/course/name/coreos-essentials
 [magnum]: https://linuxacademy.com/openstack/training/course/name/openstack-magnum-containers
 [docker]: #
-[ooo123]: https://linuxacademy.com/cp/modules/view/id/246
+[ooo123]: https://linuxacademy.com/openstack/training/course/name/open-shift-on-open-stack
 [issapass]: https://www.openstack.org/summit/berlin-2018/summit-schedule/events/22003/its-a-paas-openshift-vs-kubernetes-on-openstack
 [staxonstax]: https://www.openstack.org/summit/berlin-2018/summit-schedule/events/22041/stacks-on-stacks-on-stacks-openstack-openshift-and-why-theyre-best-friends
 [profile]: https://www.openstack.org/community/members/profile/59069/treva-williams
