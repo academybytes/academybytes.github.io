@@ -33,6 +33,7 @@ permalink: /resume/
 
 ##### Published Courses
 - [OpenShift on OpenStack][ooo123] November, 2018
+- [Deploy your first OpenShift Operator][operators] January, 2019
 
 ##### Presentations & Videos
 
@@ -125,4 +126,5 @@ University of the Incarnate Word - June, 2009 - Bachelors of Arts
 [magnum2]: https://review.openstack.org/445584
 [stackalytics]: http://stackalytics.com/?user_id=trilliams&release=all
 [commons]: https://commons.openshift.org
+[operators]: https://linuxacademy.com/linux/training/course/name/red-hat-open-shift
 [contact]: #
