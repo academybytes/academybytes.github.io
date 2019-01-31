@@ -1,6 +1,6 @@
-title: Minimal theme
+title: AcademyBytes[dot]com
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Personal blog of T. Nichole Williams - OpenStack-slash-OpenShift SME & Open Source evangelist.
+show_downloads: false
+google_analytics: UA-133597532-1
 theme: jekyll-theme-minimal
