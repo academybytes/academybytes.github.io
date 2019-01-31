@@ -19,28 +19,7 @@ permalink: /resume/
 
 ### Professional Experience
 
-#### [Linux Academy][la-main] | Keller, Texas | July 2018 - Present
-
-##### Technical Evangelist 
-- Attend and participate in meetups, conferences, and other speaking engagements
-- Develop e-learning content including: 
-	- Instructional videos
-	- Quizzes
-	- Study guides
-	- Supplemental study materials
-- Develop and code of labs for OpenStack & OpenShift environments using Bash and Ansible. 
-- Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
-
-##### Published Courses
-- [OpenShift on OpenStack][ooo123] November, 2018
-- [Deploy your first OpenShift Operator][operators] January, 2019
-
-##### Presentations & Videos
-
-- (Hands-on Workshop) [It’s a PaaS - OpenShift vs. Kubernetes on OpenStack][issapass] - OpenStack Summit Berlin 2018
-- (Lightning Talk) [Stacks on Stacks on Stacks - OpenShift, OpenStack, & Why They’re Best Friends][staxonstax] - OpenStack Summit Berlin 2018
-
-#### [Linux Academy][la-main] | Keller, Texas | January 2017 - July 2018
+#### [Linux Academy][la-main] | Keller, Texas | January 2017 - present
 ##### Course Author / Training Architect
 - Develop e-learning content including: 
 	- Instructional videos
@@ -57,6 +36,27 @@ permalink: /resume/
 - [Linux Academy Red Hat Certified Engineer in Red Hat OpenStack (ex310) prep course][ex310] - May, 2017
 - [OpenStack Essentials][osessentials] - February, 2017
 - [OpenStack Magnum Containers][magnum] - January, 2017
+
+#### [Linux Academy][la-main] | Keller, Texas | July 2018 - January 2019
+
+##### Technical Evangelist-
+- Attend and participate in meetups, conferences, and other speaking engagements
+- Develop e-learning content including:-
+>-------- Instructional videos
+>-------- Quizzes
+>-------- Study guides
+>-------- Supplemental study materials
+- Develop and code of labs for OpenStack & OpenShift environments using Bash and Ansible.-
+- Assist students of varying technical levels in mastery of OpenStack, OpenShift and Docker concepts.
+
+##### Published Courses
+- [OpenShift on OpenStack][ooo123] November, 2018
+- [Deploy your first OpenShift Operator][operators] January, 2019
+
+##### Presentations & Videos
+
+- (Hands-on Workshop) [It’s a PaaS - OpenShift vs. Kubernetes on OpenStack][issapass] - OpenStack Summit Berlin 2018
+- (Lightning Talk) [Stacks on Stacks on Stacks - OpenShift, OpenStack, & Why They’re Best Friends][staxonstax] - OpenStack Summit Berlin 2018
 
 #### [Rackspace, Inc][rax] - San Antonio, Texas - December 2013 - November 2016
 
