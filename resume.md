@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Resume
+categories: resume
 ---
 
 ## T. Nichole Williams	

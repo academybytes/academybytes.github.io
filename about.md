@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: About T. Nichole Williams
+categories: introduction about
 ---
 
 ## AcademyBytes
