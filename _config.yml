@@ -27,7 +27,7 @@ linuxacademy_profile: https://linuxacademy.com/profile/show/user/name/trilliams
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
