@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About T. Nichole Williams
-permalink: /about/
 ---
 
 ## AcademyBytes

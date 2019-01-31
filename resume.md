@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
 ---
 
 ## T. Nichole Williams	

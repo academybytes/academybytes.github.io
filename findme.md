@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Conferences -&- Events
-permalink: /findme/
 ---
 
 ### Find Trilliams!
