@@ -16,7 +16,7 @@
 title: AcademyBytes
 email: academybytes@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  AcademyBytes - thoughts & musings of an Open Source evangelist.
+  Personal blog of T. Nichole Williams - OpenStack & OpenShift SME. Doggo's mom. Open Source enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.academybytes.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OGtrilliams
