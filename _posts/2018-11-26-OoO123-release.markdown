@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "New Course - OpenShift on OpenStack"
+date:   2018-11-26 09:30 -0600
+categories: linuxacademy
+---
+
+
+For those who caught the **OpenShift on OpenStack** bug at [OpenStack Summit Berlin][summit] & want to know more, check out my latest Linux Academy course - aptly named [OpenShift on OpenStack][ooo123]! 
+
+![graphic](https://github.com/academybytes/academybytes.github.io/blob/master/_posts/images/Openshift-on-OpenStack-1920x1080.png?raw=true)
+
+You'll get a full walkthrough on how to quickly deploy your own OpenStack Queens cloud using **OpenStack PackStack**, then launch an OpenShift cluster with Keystone, Cinder, & Neutron integrations using [Keith Tenzer's][ktenzer] OpenShift-on-OpenStack123 playbooks. Once your OoO123 cluster is running, we'll practice OpenShift migrations, disaster recovery, & more. 
+
+If you don't have a Linux Academy subscription yet, now is a GREAT time to sign up to take advantage of 33% off [#CyberMonday][sale] deals, so what are you waiting for??
+
+
+[summit]: https://www.openstack.org/summit/berlin-2018/
+[ooo123]: https://linuxacademy.com/openstack/training/course/name/open-shift-on-open-stack
+[ktenzer]: https://keithtenzer.com
+[sale]: https://linuxacademy.com/join/pricing?utm_source=website&utm_medium=sitebanner&utm_campaign=blackfridaycybermonday_2018
+[openstack]: https://linuxacademy.com/openstack/training/course/name/openstack-essentials?platform=hootsuite
+[openshift]: https://linuxacademy.com/linux/training/course/name/linux-academy-redhat-certificate-of-expertise-in-platform-as-a-service-exam-ex280-prep-course
+[la-profile]: https://linuxacademy.com/profile/show/user/name/trilliams
