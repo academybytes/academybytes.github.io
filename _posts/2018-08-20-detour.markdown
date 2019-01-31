@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Accountabilibuddy post #1"
+date:   2018-01-10 13:38:50 -0600
+categories: rhca checkin
+---
+
+Just as I promised in an older post, I will be using this here blogspace as a
+sort of checkin spot to hold myself accountable for whatever I have (or
+haven't) done in working towards RHCA certification. 
+
+### Step 1 - Starting Again
+
+The first thing I did was schedule an exam - one that I've been putting off
+for an embarrassingly long time. So long, in fact, that the exam has been
+replaced & will officially go away in 2019. On August 23rd, I will sit for the
+Red Hat Certified Engineer in Red Hat OpenStack exam & hopefully move a toe
+closer to my goal.
+
+[openstack]: https://linuxacademy.com/openstack/training/course/name/openstack-essentials?platform=hootsuite
+[openshift]: https://linuxacademy.com/linux/training/course/name/linux-academy-redhat-certificate-of-expertise-in-platform-as-a-service-exam-ex280-prep-course
+[la-profile]: https://linuxacademy.com/profile/show/user/name/trilliams
