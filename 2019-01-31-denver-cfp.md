@@ -5,8 +5,6 @@ date:   2019-01-31 13:01:50 -0600
 categories: openstack
 ---
 
-# Vote for Trilliams! Round II
-
 Now that the Call for Presentations for Open Infrastructure Summit Denver has officially closed, it's time to vote for topics you want to see! Over 300 presentations, workshops, & collaborative sessions will be scheduled on topics:
 
 - AI
@@ -24,6 +22,8 @@ Because we are a 100% open source, collaborative community, you now have the pow
 voting closes Monday, February 4 at 11:59pm Pacific Time (Tuesday, February 5 at 7:59 UTC), so get your votes in!
 
 ... and if you should feel so led, please vote for my sessions linked below. I hope to see you all in Denver for the first Open Infra summit! 
+
+## Vote for Trilliams! Round II
 
 1. [It's a PaaS! - OpenShift vs. Vanilla k8s on OpenStack][issapaas]
 2. [Clear to Partly Awesome - OpenShift 4.x & How it fits with OpenStack][ocp4]
