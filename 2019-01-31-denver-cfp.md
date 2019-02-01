@@ -25,9 +25,9 @@ voting closes Monday, February 4 at 11:59pm Pacific Time (Tuesday, February 5 at
 
 ... and if you should feel so led, please vote for my sessions linked below. I hope to see you all in Denver for the first Open Infra summit! 
 
-[It's a PaaS! - OpenShift vs. Vanilla k8s on OpenStack][issapaas]
-[Clear to Partly Awesome - OpenShift 4.x & How it fits with OpenStack][ocp4]
-[StackShifting 101 - Installing OpenShift on OpenStack][stackshift]
+1. [It's a PaaS! - OpenShift vs. Vanilla k8s on OpenStack][issapaas]
+2. [Clear to Partly Awesome - OpenShift 4.x & How it fits with OpenStack][ocp4]
+3. [StackShifting 101 - Installing OpenShift on OpenStack][stackshift]
 
 [join]: https://openstack.org/join
 [issapaas]: https://www.openstack.org/summit/denver-2019/vote-for-speakers#/23034
